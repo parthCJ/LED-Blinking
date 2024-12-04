@@ -10,9 +10,6 @@ This project demonstrates a simple LED blinking system using an Arduino kit prog
 - 220Ω Resistor
 - Breadboard and Jumper wires
 
-## Circuit Diagram
-[Include your circuit diagram here]
-
 ## Code Explanation
 The program blinks an LED connected to pin 13 of the Arduino. The LED will turn ON for 1 second and OFF for 1 second in an infinite loop. 
 
